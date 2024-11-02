@@ -1,0 +1,122 @@
+[
+    {
+        "Grad": "Beograd",
+        "Temperatura": "18°C",
+        "Nebo": "Kisa"
+    },
+    {
+        "Grad": "Novi sad",
+        "Temperatura": "17°C",
+        "Nebo": "Kisa"
+    },
+    {
+        "Grad": "Kragujevac",
+        "Temperatura": "13°C",
+        "Nebo": "Sunce-oblaci"
+    },
+    {
+        "Grad": "Nis",
+        "Temperatura": "11°C",
+        "Nebo": "Sunce"
+    },
+    {
+        "Grad": "Sabac",
+        "Temperatura": "16°C",
+        "Nebo": "Kisa"
+    },
+    {
+        "Grad": "Zrenjanin",
+        "Temperatura": "16°C",
+        "Nebo": "Kisa"
+    },
+    {
+        "Grad": "Krusevac",
+        "Temperatura": "12°C",
+        "Nebo": "Sunce-oblaci"
+    },
+    {
+        "Grad": "Kosovska Mitrovica",
+        "Temperatura": "11°C",
+        "Nebo": "Sunce-oblaci"
+    },
+    {
+        "Grad": "Zajecar",
+        "Temperatura": "9°C",
+        "Nebo": "Sunce"
+    },
+    {
+        "Grad": "Sombor",
+        "Temperatura": "14°C",
+        "Nebo": "Kisa"
+    },
+    {
+        "Grad": "Uzice",
+        "Temperatura": "14°C",
+        "Nebo": "Kisa"
+    },
+    {
+        "Grad": "Valjevo",
+        "Temperatura": "19°C",
+        "Nebo": "Kisa"
+    },
+    {
+        "Grad": "Subotica",
+        "Temperatura": "14°C",
+        "Nebo": "Kisa"
+    },
+    {
+        "Grad": "Negotin",
+        "Temperatura": "8°C",
+        "Nebo": "Sunce"
+    },
+    {
+        "Grad": "Leskovac",
+        "Temperatura": "9°C",
+        "Nebo": "Sunce"
+    },
+    {
+        "Grad": "Vranje",
+        "Temperatura": "8°C",
+        "Nebo": "Sunce"
+    },
+    {
+        "Grad": "Loznica",
+        "Temperatura": "16°C",
+        "Nebo": "Kisa"
+    },
+    {
+        "Grad": "Cacak",
+        "Temperatura": "13°C",
+        "Nebo": "Sunce-oblaci"
+    },
+    {
+        "Grad": "Novi Pazar",
+        "Temperatura": "11°C",
+        "Nebo": "Sunce-oblaci"
+    },
+    {
+        "Grad": "Pirot",
+        "Temperatura": "9°C",
+        "Nebo": "Sunce"
+    },
+    {
+        "Grad": "Kraljevo",
+        "Temperatura": "16°C",
+        "Nebo": "Kisa"
+    },
+    {
+        "Grad": "Sjenica",
+        "Temperatura": "12°C",
+        "Nebo": "Sunce-oblaci"
+    },
+    {
+        "Grad": "Kopaonik",
+        "Temperatura": "5°C",
+        "Nebo": "Kisa"
+    },
+    {
+        "Grad": "Zlatibor",
+        "Temperatura": "12°C",
+        "Nebo": "Sunce-oblaci"
+    }
+]
