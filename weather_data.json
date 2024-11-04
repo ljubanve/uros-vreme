@@ -15,12 +15,12 @@
         "Nebo": "Sunce-oblaci"
     },
     {
-        "Grad": "Nis",
+        "Grad": "Niš",
         "Temperatura": "11°C",
         "Nebo": "Sunce"
     },
     {
-        "Grad": "Sabac",
+        "Grad": "Šabac",
         "Temperatura": "16°C",
         "Nebo": "Kisa"
     },
@@ -30,17 +30,17 @@
         "Nebo": "Kisa"
     },
     {
-        "Grad": "Krusevac",
+        "Grad": "Kruševac",
         "Temperatura": "12°C",
         "Nebo": "Sunce-oblaci"
     },
     {
-        "Grad": "Kosovska Mitrovica",
+        "Grad": "K. Mitrovica",
         "Temperatura": "11°C",
         "Nebo": "Sunce-oblaci"
     },
     {
-        "Grad": "Zajecar",
+        "Grad": "Zaječar",
         "Temperatura": "9°C",
         "Nebo": "Sunce"
     },
@@ -50,7 +50,7 @@
         "Nebo": "Kisa"
     },
     {
-        "Grad": "Uzice",
+        "Grad": "Užice",
         "Temperatura": "14°C",
         "Nebo": "Kisa"
     },
@@ -85,7 +85,7 @@
         "Nebo": "Kisa"
     },
     {
-        "Grad": "Cacak",
+        "Grad": "Čačak",
         "Temperatura": "13°C",
         "Nebo": "Sunce-oblaci"
     },
