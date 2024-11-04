@@ -1,12 +1,13 @@
 const express = require("express")
 const path = require("path")
+const cors = require("cors")
 
 const app = express()
 
+app.use(cors())
+
 app.get("/api/v1/vreme", (req, res) => {
     const fajl = path.join(__dirname, "weather_data.json")
-    console.table(fajl);
-    console.assert(fajl)
     res.status(200).sendFile(fajl)
 })
 
